@@ -1,3 +1,4 @@
+- [Beranda](/)
 - Dapodik
   - [Dapodix](https://github.com/dapodix/dapodix "Alat bantu aplikasi dapodik")
   - [Installer Dapodik](/dapodik-2021/ "Installer Dapodik 2021")
